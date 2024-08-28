@@ -13,9 +13,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner , year=2023 }}
-          # getGithubUserContribution("mayureshzende", { year: 2023 })
-          # getGithubUserContribution("platane", { from: 2023-12-01, to:2023-12-31 })
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/only-svg/github-contribution-grid-snake.svg
             dist/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark
