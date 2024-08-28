@@ -4,7 +4,7 @@
 
 ### Like This :arrow_heading_down:
 
-![Image of Mayuresh on github Profile](https://github.com/mayureshzende/name-graph/blob/master/img/mayreush-graph.png)
+![Image of Mayuresh on github Profile](https://github.com/mayureshzende/name-plot/blob/master/img/mayreush-graph.png)
 
 #### If you don't like reading, then just follow this :arrow_down: and enjoy. :sunglasses:
 
